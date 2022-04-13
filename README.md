@@ -1,5 +1,5 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-# Realtime yFinance Stock Prediction
+# Realtime yFinance Stock Prediction Using LSTM
 ## Overview:
 Sentiment Analysis and stock prediction on realtime data from Yahoo Finance website. 
 Historic data has been collected for B&S SENSEX from the website and predictions have been done after training the LSTM model.

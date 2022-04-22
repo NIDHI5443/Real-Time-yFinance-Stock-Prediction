@@ -2,7 +2,8 @@
 # Realtime yFinance Stock Prediction Using LSTM
 ## Overview:
 Sentiment Analysis and stock prediction on realtime data from Yahoo Finance website. 
-Historic data has been collected for B&S SENSEX from the website and predictions have been done after training the LSTM model.
+Historic data has been collected for S&P BSE SENSEX from the website and predictions have been done after training the LSTM model.
+
 ## Prerequisites
 * Python 3 
 * an IDE (preferably Jupyter Notebook)
